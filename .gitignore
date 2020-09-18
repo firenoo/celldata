@@ -1,0 +1,17 @@
+#compiler
+compile.bat
+*.jar
+sources.txt
+
+#prod
+/out/**
+/module_out/**
+/out-jars/**
+.class
+/lib/**
+
+#test
+/firenoo/test/**
+
+#VSCode
+/.vscode/**
